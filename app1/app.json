@@ -2,7 +2,7 @@
   "id": "45b865ea-88b5-4ac8-90ea-f71b4bd4d303",
   "name": "app1",
   "publisher": "Pomuni",
-  "version": "1.0.0.0",
+  "version": "1.2.3.4",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "20.0.0.0",
   "idRanges": [
     {
       "from": 55000,
